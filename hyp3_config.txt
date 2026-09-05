@@ -1,0 +1,8 @@
+mintpy.load.processor        = hyp3
+mintpy.load.unwFile          = ./data/*/*unw_phase.tif
+mintpy.load.corFile          = ./data/*/*corr.tif
+mintpy.load.demFile          = ./data/*/*dem.tif
+mintpy.load.incAngleFile     = ./data/*/*lv_theta.tif
+mintpy.load.waterMaskFile    = ./data/*/*water_mask.tif
+
+

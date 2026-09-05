@@ -1,0 +1,39 @@
+# ---------------------------------------------------
+# Global InSAR Deformation Portfolio .gitignore
+# ---------------------------------------------------
+
+# 1. Heavy Raw Data & Archives
+*.zip
+*.tar.gz
+*.safe
+data/
+ERA5/
+
+# 2. InSAR & MintPy Intermediate Matrices
+*.h5
+inputs/
+pic/
+*.log
+*.kmz
+*.kml
+
+# 3. Geospatial Rasters & QGIS Caches
+*.tif
+*.tiff
+*.vrt
+*.qgz
+*.qgis~
+
+# 4. Mac OS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 5. Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.conda/

@@ -1,0 +1,9 @@
+# Root Mean Square in space for each acquisition of time-series
+# Timeseries file: timeseriesResidual_ramp.h5
+# Mask file: maskTempCoh.h5
+# Date		RMS (m)
+20240103	0.002093337709084153
+20240115	0.0026738960295915604
+20240127	0.00453832047060132
+20240208	0.00872501265257597
+20240220	0.00360610568895936
