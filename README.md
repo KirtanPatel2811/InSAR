@@ -104,6 +104,4 @@ Italy and Gujarat show the widest spread and the most negative means — consist
 **Kirtan Patel (Santoki)** — B.Tech CSE, CSPIT, CHARUSAT
 GitHub: [@KirtanPatel2811](https://github.com/KirtanPatel2811)
 
-## License
 
-No license file is currently set — add one (MIT is a common default for portfolio repos) if you want to make reuse terms explicit.
